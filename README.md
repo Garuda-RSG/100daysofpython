@@ -7,3 +7,4 @@ There are three types of Python projects:
 
 ## CLI
 1. [Hangman](https://github.com/Garuda-RSG/100daysofpython/tree/master/CLI/Hangman)
+2. [Caesar Cipher](https://github.com/Garuda-RSG/100daysofpython/tree/master/CLI/Caesar-cipher)
